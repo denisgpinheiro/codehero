@@ -1,0 +1,44 @@
+body {
+    background-color: #f5f3f3;
+}
+.container{
+    padding-top: 50px;
+}
+
+input#buscar {
+    width: 30%;
+}
+
+img.heroi-thumb{
+    width:40px;
+    height: 40px;
+    float:left;
+}
+
+h2.heroi-nome{
+    font-size: 1.2rem;
+    margin-left: 50px;
+
+}
+.table>:not(caption)>*>*{
+    max-width: 10px;
+}
+.row.col-md-12.top-tabela {
+    margin-top: 50px;
+}
+.top-tabela tr th {
+    color: #b7b6b6;
+}
+
+nav.navbar.navbar-light.bg-white.justify-content-between {
+    padding: 10px 20px;
+}
+
+#personagens-row .col-md-12 {
+    background-color: #fff;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 2px #c3c2c2;
+    padding: 10px;
+    border-radius: 3px;
+}
+tbody, td, tfoot, th, thead, tr{border-style:none;}
