@@ -1,7 +1,19 @@
 /*
 * Conforme documentação da Marvel, para criar a URL é preciso pegar a timeStamp + public + private key
 * e então montar isso em um MD5 para passar na URL.
+*
+*
+* Olá, tudo bem?
+* A você que está analisando meu projeto. Pode ter certeza, 
+* eu dei o meu melhor nas condições e conhecimento que eu tenho hoje. 
+* Espero que eu consiga um espaço no time de vocês para evoluir, buscar aprendizado
+* e melhorar cada vez mais.
+* Não consegui fazer o recurso de busca funcionar direito, mas deixei o código comentado
+* nesta parte. Espero que possamos ser companheiros de trabalho em breve.
+* Estou totalmente disposto e aberto a aprender e evoluir! Grande abraço,
 */
+
+
 const timeStamp = Math.floor(Date.now() / 1000);
 const publicKey = "5db702a0eaf230cab4c321b65c5005f6";
 const privateKey = "40af644b0b6d47d46508ef89c7c86db6f22bba97";
