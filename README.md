@@ -1,1 +1,2 @@
-# codehero
+- Projeto para conectar na API da Marvel e trazer uma listagem de personagens.
+- Utilizando a linguagem Javascript com DOM 
